@@ -13,7 +13,7 @@ b, strong {
     color: red;
 }
 
-.nain-content .video video {
-    display: flex;
-    justify-content: center;
+.main-content video {
+    margin-left: 50vw;
+    transform: translate(-50%);
 }
