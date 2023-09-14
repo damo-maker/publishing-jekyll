@@ -1,3 +1,5 @@
+<link href="assets/css/style.css" rel="stylesheet"></link>
+
 # StarGazers
 
 [Cast](Cast.md) | [Collectibles](Collectibles.md)

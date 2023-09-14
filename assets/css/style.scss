@@ -12,3 +12,8 @@ $header-bg-color: red;
 b, strong {
     color: red;
 }
+
+.main-content video {
+    display: flex;
+    justify-content: center;
+}
